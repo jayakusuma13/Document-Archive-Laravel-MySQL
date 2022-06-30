@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="description" content="e-SPT Widyaiswara">
   <meta name="author" content="Wawan Setiawan">
-  <link rel="shortcut icon" href="{{ URL::asset('assets/images/favicon.ico') }}">
+  <link rel="shortcut icon" href="{{ URL::asset('assets/images/favicon.png') }}">
   <title>Cetak Surat Tugas</title>
   <link href="{{ URL::asset('assets/css/normalize.css') }}" rel="stylesheet">
   <link href="{{ URL::asset('assets/css/paper.css') }}" rel="stylesheet">
